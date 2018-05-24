@@ -1,0 +1,20 @@
+{
+  "name": "module-2-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "e": "0.0.4",
+    "errorhandler": "1.5.0",
+    "express": "4.16.3",
+    "express-validator": "^5.2.0",
+    "morgan": "1.9.0"
+  }
+}
